@@ -17,3 +17,4 @@ The Trinket Torch was created for a production of Shrek that required a mob to h
 
 ## Circuit Diagram
 
+![Wiring diagram](https://raw.githubusercontent.com/bapril/TrinketTorch/master/Wiring.png "Wiring diagram")
